@@ -1,5 +1,7 @@
-# countries-and-weather-backend
-Here you can find the backend code for my countries-and-weather-application, which allows you to search for information about any country in the world. With my app, you can find basic information about a country, such as its population, language, and currency, as well as the current weather in its capital city.
+# Countries and weather -backend
+Here you can find the backend code for my countries-and-weather-application, which allows you to search for information about any country in the world. With my app, you can find basic information about a country, such as its population, language, and currency, as well as the current weather in its capital city.  
+
+<img width="947" alt="countries" src="https://github.com/tiiaojares/countries-and-weather-backend/assets/123379881/15b4c2f5-1a7e-4351-a324-ae64ac84fb13">  
 
 My applications backend is built using a Node.js with Express and Axios for API requests, and a frontend built with React, JavaScript, HTML, CSS, and Bootstrap. The app is responsive and can be used on both desktop and mobile devices.
 
